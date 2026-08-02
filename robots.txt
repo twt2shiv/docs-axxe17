@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ruq7zg.bento4d0spa.cyou/sitemap.xml
